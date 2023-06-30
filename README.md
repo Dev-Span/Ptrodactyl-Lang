@@ -24,3 +24,5 @@ You can also change the translation in /resources/lang/en/.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Update will come soon
